@@ -1,6 +1,6 @@
 body{
 
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
     margin: 0px;
 }
 h1{
@@ -9,7 +9,7 @@ h1{
 h2{
     font-size: 40px;
 }
-.orange-highlight{
+.color-highlight{
     color:orange ;
 }
 .half-width{
@@ -22,7 +22,7 @@ h2{
 .half-width img{
     width: 100%;
 }
-.top-area{
+.header-area{
     background-image: url("images/personal-website/header-bg.png");
     background-repeat: no-repeat;
     background-position: left;
@@ -52,23 +52,23 @@ p{
     background-repeat: no-repeat;
     background-position: right;
 }
-.single-experience{
+.initial-experience{
     box-shadow: 10px 10px 40px gray ;
     border-radius: 10px;
     height: 90%;
     background-color: white;
 }
-.experience-area{
+.expertness-area{
     background-image: url("images/exp-bg.png");
     background-repeat: no-repeat;
     background-position: left;
 }
-#Full-stack{
+#expert-dev{
     border-left: 7px solid;
     border-image: linear-gradient( 180deg, lightsalmon,tomato) ;
     border-image-slice: 1;
 }
-#baby-web{
+#learner-dev{
     border-left: 7px solid;
     border-image: linear-gradient(  180deg, blue,cyan) ;
     border-image-slice: 1;
